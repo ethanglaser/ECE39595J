@@ -1,0 +1,39 @@
+S1:
+S2: Error
+S3: Base::f2
+S4: Base::f3
+S5: Base::f4
+S6: Base::f5
+S7: Error
+S8: Base::foo0
+Base::f0
+S9: Base::foo1
+Base::f1
+S10: Base::foo2
+Base::f2
+S11:
+S12: Error 
+S13: Base::f2
+S14: Derived::f3
+S15: Base::f4
+S16: Derived::f5
+S17: Error
+S18: Base::foo0
+Base::f0
+S19: Base::foo1
+Base::f1
+S20: Base::foo2
+Base::f2
+S21:
+S22: Error
+S23: Base::f2
+S24: Derived::f3
+S25: Base::f4
+S26: Derived::f5
+S27: Derived::f6
+S28: Base::foo0
+Base::f0
+S29: Base::foo1
+Base::f1
+S30: Base::foo2
+Base::f2
